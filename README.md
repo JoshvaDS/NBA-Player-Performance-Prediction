@@ -38,6 +38,7 @@ The project contains the following components:
 ## **How to Run the Code:**
 
 ### Prerequisites:
+- Python 3.8+
 Before running the code, ensure you have the following libraries installed:
 - `pandas` (for data handling)
 - `numpy` (for numerical operations)
@@ -47,4 +48,4 @@ Before running the code, ensure you have the following libraries installed:
 
 You can install the required libraries using the following command:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
