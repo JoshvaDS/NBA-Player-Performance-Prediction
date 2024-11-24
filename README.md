@@ -44,7 +44,6 @@ Before running the code, ensure you have the following libraries installed:
 - `numpy` (for numerical operations)
 - `scikit-learn` (for machine learning models and evaluation)
 - `matplotlib` and `seaborn` (for data visualization)
-- `sklearn` (for model training and metrics)
 
 You can install the required libraries using the following command:
 ```bash
